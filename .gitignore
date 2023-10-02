@@ -1,0 +1,22 @@
+# ## Java ###
+# Archivo de clase compilado
+* .clase
+
+# ## IDEA de IntelliJ ###
+.idea
+* .iws
+* .iml
+* .ipr
+
+# ## NetBeans ###
+/ nbproject / privado /
+/ nbbuild /
+/ dist /
+/ nbdist /
+/ .nb-gradle /
+construir /
+! ** / origen / principal / ** / compilación /
+! ** / origen / prueba / ** / compilación /
+
+# ## Código VS ###
+.vscode /
